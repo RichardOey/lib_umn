@@ -31,8 +31,8 @@ if (!defined('INDEX_AUTH')) {
 // database constant
 // change below setting according to your database configuration
 define('DB_NAME', 'lib_umn');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
+define('DB_USERNAME', 'richard');
+define('DB_PASSWORD', 'richard10');
 
 // define any other sysconfig variables below
 $sysconf['index']['type'] = 'default';
