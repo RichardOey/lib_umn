@@ -106,6 +106,7 @@
 
 .recommendation-books img{
     width:70%;
+    max-height:160px;
     height:70%;
 }
 
